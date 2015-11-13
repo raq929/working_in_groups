@@ -33,7 +33,7 @@ What should I do?
 * Ask your teammates to walk through the code/planning process
 * Tell your teammates how you feel
 
-2. What should I avoid?
+What should I avoid?
 * Panicking. "I can't do this" is less productive than, "I can't do this yet, can you help me."
 * Pretending that you understand.
 
